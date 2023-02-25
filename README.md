@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @akshansh-0
 - 👀 I’m interested in developing applications and tools
 - 🌱 I’m currently learning C++
-- 💞️ I’m looking to collaborate on 
+- 💞️ I’m looking to collaborate on web development 
 - 📫 How to reach me : dm me. 🙂
 
 <!---
